@@ -16,6 +16,7 @@ detail css berada didalam folder bootstrap, sejajar dengan folder js dan ico.
 B. Untuk relative path javascript sama seperti folder css, berada didalam folder bootstrap dan folder bernama js.
 
 langkah mencoba di folder anda.
+
 1. Taruh folder bootstrap pada /usr/share/apache2.
 
 2. Taruh file css_bootstrap.conf pada /etc/apache2/conf-available.
